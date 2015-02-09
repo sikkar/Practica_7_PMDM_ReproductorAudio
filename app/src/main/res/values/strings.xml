@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ReproductorAudio</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Grabar Audio</string>
+    <string name="title_activity_grabador">Grabador</string>
+    <string name="grabando">Grabando</string>
+    <string name="empezar">Comenzar...</string>
+    <string name="detener">Finalizada</string>
+</resources>
